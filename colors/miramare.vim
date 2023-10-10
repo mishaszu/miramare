@@ -30,7 +30,7 @@ let s:configuration.current_word = get(g:, 'miramare_current_word', get(g:, 'mir
 " }}}
 " Palette: {{{
 let s:palette = {
-      \ 'bg0':        ['#2A2426',   '235',  'Black'],
+      \ 'bg0':        ['#463836',   '235',  'Black'],
       \ 'bg1':        ['#242021',   '236',  'DarkGrey'],
       \ 'bg2':        ['#242021',   '237',  'DarkGrey'],
       \ 'bg3':        ['#242021',   '238',  'DarkGrey'],
